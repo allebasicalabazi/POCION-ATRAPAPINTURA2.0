@@ -1,2 +1,1 @@
-# POCION-ATRAPAPINTURA2.0
-version mejorada
+# Trex_Etapa_0
